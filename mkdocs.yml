@@ -28,10 +28,11 @@ theme:
   - content.code.annotate
   - content.code.copy
   - content.code.select
-  - navigation.tabs
+  # - navigation.tabs
 repo_name: nestpy/nest
 repo_url: https://github.com/nestpy/nest
 nav:
-- Nestpy: index.md
-- features.md
+- introduction.md
+- Overview: 
+  - overview/first-steps.md
 
