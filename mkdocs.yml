@@ -36,6 +36,7 @@ nav:
 - Overview: 
   - overview/first-steps.md
   - overview/controllers.md
+  - overview/modules.md
 markdown_extensions:
   pymdownx.highlight:
     anchor_linenums: true
