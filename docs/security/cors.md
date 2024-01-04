@@ -1,0 +1,7 @@
+### CORS
+
+[ ... ]
+
+#### Getting started
+
+[ ... ]

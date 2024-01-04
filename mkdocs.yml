@@ -37,6 +37,8 @@ nav:
   - overview/first-steps.md
   - overview/controllers.md
   - overview/modules.md
+- Security:
+  - security/cors.md
 markdown_extensions:
   pymdownx.highlight:
     anchor_linenums: true
