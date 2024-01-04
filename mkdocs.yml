@@ -38,6 +38,8 @@ nav:
   - overview/controllers.md
   - overview/providers.md
   - overview/modules.md
+- Techniques:
+  - techniques/versioning.md
 - Security:
   - security/cors.md
 - FAQ:
