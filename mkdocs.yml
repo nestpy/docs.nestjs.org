@@ -38,6 +38,7 @@ nav:
   - overview/controllers.md
   - overview/providers.md
   - overview/modules.md
+  - overview/exception-filters.md
 - Techniques:
   - techniques/versioning.md
 - Security:
