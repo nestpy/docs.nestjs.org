@@ -46,6 +46,7 @@ nav:
   - cli/overview.md
   - cli/workspaces.md
   - cli/libraries.md
+  - cli/usages.md
 - Security:
   - security/cors.md
 - FAQ:
