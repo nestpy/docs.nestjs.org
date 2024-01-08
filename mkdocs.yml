@@ -44,6 +44,7 @@ nav:
   - techniques/versioning.md
 - CLI:
   - cli/overview.md
+  - cli/workspaces.md
 - Security:
   - security/cors.md
 - FAQ:
