@@ -21,7 +21,7 @@ $ make start
 OR
 
 ```bash
-$ 	docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+$ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 ```
 
 Navigate to [`http://localhost:8000/`](http://localhost:8000/).
