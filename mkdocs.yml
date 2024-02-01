@@ -32,7 +32,7 @@ theme:
 repo_name: nestpy/nest
 repo_url: https://github.com/nestpy/nest
 nav:
-- introduction.md
+- Introduction: index.md
 - Overview: 
   - overview/first-steps.md
   - overview/controllers.md
